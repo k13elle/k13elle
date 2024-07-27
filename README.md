@@ -1,6 +1,6 @@
 # Hi there :wave:
 
-Nathapon Vaiyavuthipinyo (sometimes spelled **Nathaphon Waiyawutthiphinyo**[^1]; [Thai](https://en.wikipedia.org/wiki/Thai_language): ณฐพล วัยวุฒิภิญโญ, <sub>pronounced</sub>[[nátʰà.pʰōn wājjáwúttʰí.pʰīnjōː]](https://en.wikipedia.org/wiki/Help:IPA/Thai) is a software engineer who based in Krungthep.
+**Nathapon Vaiyavuthipinyo** (sometimes spelled **Nathaphon Waiyawutthiphinyo**[^1]; [Thai](https://en.wikipedia.org/wiki/Thai_language): ณฐพล วัยวุฒิภิญโญ, <sub>pronounced</sub>[[nátʰà.pʰōn wājjáwúttʰí.pʰīnjōː]](https://en.wikipedia.org/wiki/Help:IPA/Thai) is a software engineer who based in Krungthep.
 
 > Experienced Software Engineer with a demonstrated history of working in the financial services and IOT industry. Skilled in Cross-platform Development, UI, UX, and IA especially Web Technology based projects.
 
